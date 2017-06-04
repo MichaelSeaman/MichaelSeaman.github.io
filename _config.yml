@@ -1,13 +1,13 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Development Blog
+tagline:      Deep Learning and Learning Jazz
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Michael Seaman
+  url:        http://michael-seaman.com
 
 # Gems
 gems:
