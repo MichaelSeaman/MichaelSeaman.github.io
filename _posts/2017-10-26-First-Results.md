@@ -71,16 +71,27 @@ an AWS EC2 p.8xlarge GPU machine running Ubuntu.
 ### Results
 
 Below we find the output of the loss function of each model plotted over time.
+
+
 Model 1: Finishing with Loss = .02 after only 150 Epochs
 ![Model 1 Loss]({{ site.baseurl }}/images/Model1loss.png)
+
+
 Model 2: Loss = .81 after 200 Epochs
 ![Model 2 Loss]({{ site.baseurl }}/images/Model2loss.png)
+
+
 Model 3: Loss = .98 after 200 Epochs
 ![Model 3 Loss]({{ site.baseurl }}/images/Model3loss.png)
+
+
 Model 4: Loss = 1.20 after 200 Epochs
 ![Model 4 Loss]({{ site.baseurl }}/images/Model4loss.png)
+
+
 Model 5: Loss = .86 after 200 Epochs
 ![Model 5 Loss]({{ site.baseurl }}/images/Model5loss.png)
+
 
 And finally, a set of short 'pieces' composed by each model:
 
