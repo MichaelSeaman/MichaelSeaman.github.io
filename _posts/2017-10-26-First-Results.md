@@ -74,54 +74,54 @@ Below we find the output of the loss function of each model plotted over time.
 
 
 Model 1: Finishing with Loss = .02 after only 150 Epochs
-![Model 1 Loss]({{ site.baseurl }}/images/Model1loss.png)
+![Model 1 Loss]({{ site.baseurl }}/images/firstresults_Model1loss.png)
 
 
 Model 2: Loss = .81 after 200 Epochs
-![Model 2 Loss]({{ site.baseurl }}/images/Model2loss.png)
+![Model 2 Loss]({{ site.baseurl }}/images/firstresults_Model2loss.png)
 
 
 Model 3: Loss = .98 after 200 Epochs
-![Model 3 Loss]({{ site.baseurl }}/images/Model3loss.png)
+![Model 3 Loss]({{ site.baseurl }}/images/firstresults_Model3loss.png)
 
 
 Model 4: Loss = 1.20 after 200 Epochs
-![Model 4 Loss]({{ site.baseurl }}/images/Model4loss.png)
+![Model 4 Loss]({{ site.baseurl }}/images/firstresults_Model4loss.png)
 
 
 Model 5: Loss = .86 after 200 Epochs
-![Model 5 Loss]({{ site.baseurl }}/images/Model5loss.png)
+![Model 5 Loss]({{ site.baseurl }}/images/firstresults_Model5loss.png)
 
 
 And finally, a set of short 'pieces' composed by each model:
 
 Composition by model 1:
 <audio controls>
-  <source src="/audio/composition1.wav" type="audio/wav">
+  <source src="/audio/firstresults_composition1.wav" type="audio/wav">
   Your browser does not support the audio tag.
 </audio>
 
 Composition by model 2:
 <audio controls>
-  <source src="/audio/composition2.wav" type="audio/wav">
+  <source src="/audio/firstresults_composition2.wav" type="audio/wav">
   Your browser does not support the audio tag.
 </audio>
 
 Composition by model 3:
 <audio controls>
-  <source src="/audio/composition3.wav" type="audio/wav">
+  <source src="/audio/firstresults_composition3.wav" type="audio/wav">
   Your browser does not support the audio tag.
 </audio>
 
 Composition by model 4:
 <audio controls>
-  <source src="/audio/composition4.wav" type="audio/wav">
+  <source src="/audio/firstresults_composition4.wav" type="audio/wav">
   Your browser does not support the audio tag.
 </audio>
 
 Composition by model 5:
 <audio controls>
-  <source src="/audio/composition5.wav" type="audio/wav">
+  <source src="/audio/firstresults_composition5.wav" type="audio/wav">
   Your browser does not support the audio tag.
 </audio>
 
