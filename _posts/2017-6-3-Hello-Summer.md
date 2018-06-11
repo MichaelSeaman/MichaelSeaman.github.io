@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Plan
+title: Machine Musicianship - Planning
 ---
 
 What if I blogged that every piece of music ever created was just a particular series of patterns of sounds arranged in time? Well... That sounds very general and conservative. Wait, that's not how this hook is supposed to work.
