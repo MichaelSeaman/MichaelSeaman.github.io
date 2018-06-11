@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photo-Resistors
+title: Laser-Harp-Update
 ---
 
 I have been working on a small side project. Following the purchase of my new
@@ -73,4 +73,4 @@ goals remain:
 
 Until next time, happy lasing!
 
-![Laser]({{ site.baseurl }}/images/laserharpupdate-laser.png)
+![Laser]({{ site.baseurl }}/images/laserharpupdate-laser.jpg)
