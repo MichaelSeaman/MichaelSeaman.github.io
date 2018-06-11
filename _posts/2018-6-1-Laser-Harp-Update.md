@@ -5,7 +5,7 @@ title: Laser Harp - Update
 
 I have been working on a small side project. Following the purchase of my new
 Arduino micro controller, I will be building a MIDI laser harp! Read my intro
-[here]({{ site.baseurl }}/2018/3/7/Laser-Harp-Init.html).
+[here]({{ site.baseurl }}/2018/03/07/Laser-Harp-Init.html).
 
 ### Week 9 updates
 

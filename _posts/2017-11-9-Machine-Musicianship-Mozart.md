@@ -4,7 +4,7 @@ title: Machine Musicianship - Mozart
 ---
 
 New results are in for this week's set of trials. I will try and keep this
-update brief but meaty. For an intro, refer back to [First Results]({{ site.baseurl }}/2017/10/26/First-Results.html),
+update brief but meaty. For an intro, refer back to [First Results]({{ site.baseurl }}/2017/10/26/Machine-Musicianship-Planning.html),
 as this post will just be an update.
 
 Following my last post, I had set forth 4 new directions to move this project
