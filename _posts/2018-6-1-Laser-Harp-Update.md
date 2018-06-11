@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Laser-Harp-Update
+title: Laser Harp - Update
 ---
 
 I have been working on a small side project. Following the purchase of my new

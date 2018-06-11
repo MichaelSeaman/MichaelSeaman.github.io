@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Laser-Harp-Init
+title: Laser Harp - Init
 ---
 
 I have been working on a small side project. Following the purchase of my new
