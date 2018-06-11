@@ -1,12 +1,33 @@
 ---
 layout: post
-title: Photo-Resistors
+title: Laser-Harp-Init
 ---
 
 I have been working on a small side project. Following the purchase of my new
 Arduino micro controller, I will be building a MIDI laser harp!
 
-### Week 1 updates
+### The Design
+
+There are many different approaches to building one of these Sci-Fi musical
+instruments, so I want to set some principles as to how I plan on making design
+decisions. Ultimately, my ideal harp will fulfill the following criteria:
+
+* It will have a simple design - I am not a team of engineers after all
+* It will only use single laser module - Lasers are quite expensive and
+potentially dangerous.
+* Unlike a traditional harp, the laser harp will not have a frame to contain
+the strings. Instead the laser beams will just travel off to infinity.
+* The harp will have a variable number of strings, able to be changed at runtime
+* The harp should be capable of playing multiple notes at once
+
+In order to simulate multiple beams, the single laser will have to be pulsed at
+the base, and subsequently redirected towards a mirror to give the illusion of
+multiple strings.
+
+![Sweeping Beam Animation]({{ site.baseurl }}/images/laserharpinit-sweepingbeam.gif)
+
+
+### Week 1 updates - Light Sensing
 
 One of the most worrying things about creating a robust laser harp to me is how
 to accurately measure when a beam is broken. A common approach seems to be
