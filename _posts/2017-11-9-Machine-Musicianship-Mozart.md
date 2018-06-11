@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machine Musicianship: Mozart
+title: Machine Musicianship - Mozart
 ---
 
 New results are in for this week's set of trials. I will try and keep this

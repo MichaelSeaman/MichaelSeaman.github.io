@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machine Musicianship: First Results
+title: Machine Musicianship - First Results
 ---
 
 A lot of time has passed since I last touched base on this project but I'm happy
