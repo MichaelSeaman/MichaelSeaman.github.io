@@ -203,14 +203,14 @@ style of writing. Luckily, learning to write easy-to-read rhythm section parts
 but difficult to screw up once mastered!
 
 _A good rhythm section part, like any part, accurately displays the musical
-intent of the passage whilst requiring *as little mental effort as possible from
-the performer*._ In otherwords, K.I.S.S. Keep It Simple Stupid.
+intent of the passage whilst requiring **as little mental effort as possible from
+the performer**._ In otherwords, K.I.S.S. Keep It Simple Stupid.
 
 ### Drum Notation
 
 For drum parts, there already exists a _fantastic_ guide written by the very
 accomplished Tim Davies on his blog
-(here)[http://www.timusic.net/debreved/jazz-notation-chords-drums/]. While the
+[here](http://www.timusic.net/debreved/jazz-notation-chords-drums/). While the
 guide is somewhat long, it will give you everything you need to know to write
 a fantastic drum part that _anyone_ can read.
 
