@@ -45,19 +45,19 @@ oversimplification of the process.
 
 All pitches denote a 'comfortable range' and are at **sounding** pitch.
 
-* Baritone Voice - Luke Carlsen - A2 to G4
+* Baritone Voice - **Luke Carlsen** - A2 to G4
     * Best projection from C4 to F4
-* Alto Sax 1 - Matt Cole - Db3 to G5
-* Alto Sax 2 (Soprano Double) - Steven Ragsdale - Db3 to C6
-* Tenor Sax (Flute, Picc., Clar. double) - Myles Davis - Ab2 to ∞(?)
-* Bari. Sax (Bass Clarinet Double) - Martin Caestecker - C2 to G4
-* Tpt. 1 - Tim Mathesin - E3 to Eb6
-* Tpt. 2 - Chris Traynor - E3 to C6
-* Bone 1 - Ramsey Hampton - E2 to Eb6
-* Bone 2 - David Ferneau - E2 to D6
-* Piano - Michael Seaman (your author) - A0 to C8
-* Bass - Fizzo - E1 to D4
-* Drums - Jessica Ragsdale - Bass to Crash
+* Alto Sax 1 - **Matt Cole** - Db3 to G5
+* Alto Sax 2 (Soprano Double) - **Steven Ragsdale** - Db3 to C6
+* Tenor Sax (Flute, Picc., Clar. double) - **Myles Davis** - Ab2 to ∞(?)
+* Bari. Sax (Bass Clarinet Double) - **Martin Caestecker** - C2 to G4
+* Tpt. 1 - **Tim Mathesin** - E3 to Eb6
+* Tpt. 2 - **Chris Traynor** - E3 to C6
+* Bone 1 - **Ramsey Hampton** - E2 to Eb6
+* Bone 2 - **David Ferneau** - E2 to D6
+* Piano - **Michael Seaman** (your author) - A0 to C8
+* Bass - **Fizzo** - E1 to D4
+* Drums - **Jessica Ragsdale** - Bass to Crash
 
 Keep in mind that the order above denotes the **prefered score order** from top to
 bottom.
